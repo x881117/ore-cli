@@ -1,0 +1,12 @@
+/root/ore-cli/target/release/deps/libproc_macro_error-b901ac113a0a1f7c.rmeta: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/dummy.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/diagnostic.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/macros.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/sealed.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/imp/fallback.rs
+
+/root/ore-cli/target/release/deps/libproc_macro_error-b901ac113a0a1f7c.rlib: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/dummy.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/diagnostic.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/macros.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/sealed.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/imp/fallback.rs
+
+/root/ore-cli/target/release/deps/proc_macro_error-b901ac113a0a1f7c.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/dummy.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/diagnostic.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/macros.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/sealed.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/imp/fallback.rs
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/dummy.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/diagnostic.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/macros.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/sealed.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-error-1.0.4/src/imp/fallback.rs:

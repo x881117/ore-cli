@@ -1,0 +1,9 @@
+cargo:rerun-if-changed=protos/auth.proto
+cargo:rerun-if-changed=protos/block.proto
+cargo:rerun-if-changed=protos/block_engine.proto
+cargo:rerun-if-changed=protos/bundle.proto
+cargo:rerun-if-changed=protos/packet.proto
+cargo:rerun-if-changed=protos/relayer.proto
+cargo:rerun-if-changed=protos/searcher.proto
+cargo:rerun-if-changed=protos/shared.proto
+cargo:rerun-if-changed=protos
